@@ -19,7 +19,7 @@ goto do_if_admin
 	echo "VCRUNTIME140.dll" or "MSVCP140.dll" not found.
 	echo:
 	echo If you still get error, 
-	echo Read: github.com/h9tech/pubglite_dll_error_solve/readme.md
+	echo Read: github.com/h9tech/PUBGLite-Dll-Missing-Error
 	echo Message Us: instagram.com/h9_tech_
 	echo:
 	echo Support us On YouTube: youtube.com/h9youtube
