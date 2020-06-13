@@ -22,7 +22,7 @@ goto do_if_admin
 	echo Read: github.com/h9tech/PUBGLite-Dll-Missing-Error
 	echo Message Us: instagram.com/h9_tech_
 	echo:
-	echo Support us On YouTube: youtube.com/h9youtube
+	echo Support us On YouTube: youtube.com/h9techyoutube
 	echo ____________________________________________________________
     ) else (
         echo Administrative permission required.
