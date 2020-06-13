@@ -11,4 +11,6 @@ This Batch Script is created to solve the error while installing PUBG Pc Lite sa
   - [.NET Framework 4.5.2](https://www.microsoft.com/net/download/dotnet-framework-runtime)
   - [DirectX 11](https://www.microsoft.com/download/details.aspx?id=35)
   
+   ##  :video: Watch The Video
+   
   [![Watch Tutorial](https://img.youtube.com/vi/ybWRBvarotI/0.jpg)](https://www.youtube.com/watch?v=ybWRBvarotI)
