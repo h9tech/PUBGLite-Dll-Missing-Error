@@ -15,6 +15,6 @@ This Batch Script is created to solve the error while installing PUBG Pc Lite sa
    
   [![Watch Tutorial](https://img.youtube.com/vi/ybWRBvarotI/0.jpg)](https://www.youtube.com/watch?v=ybWRBvarotI)
   
-  <script src="https://apis.google.com/js/platform.js"></script>
 
+<script src="https://apis.google.com/js/platform.js"></script>
 <div class="g-ytsubscribe" data-channelid="UC_sEDUsQhiDjqaZxaq2_hWg" data-layout="default" data-count="hidden"></div>
